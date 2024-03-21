@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710998407 source:e:\sdl\anhsdl_bai2\anhsdl_bai2\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
