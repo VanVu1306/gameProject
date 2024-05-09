@@ -8,6 +8,10 @@
 
 Tomb Runner là một tựa game phiêu lưu sống sót trong mê cung hầm mộ. Trong quá trình chơi, người chơi tìm cách vượt qua các chướng ngại vật khác nhau kết hợp ăn nhiều xu nhất có thể để có cơ hội được tăng level.
 
+![menu](/preview/menu.png)
+![normalMode](/preview/normalMode.png)
+![lavaMode](/preview/lavaMode.png)
+
 ## **Mô tả game**
 ### *Cách chơi*
 - Sử dụng 4 nút di chuyển `↑`, `↓`, `←`, `→` để đi lại trong map
